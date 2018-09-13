@@ -12,7 +12,7 @@ namespace Memberships.Entities
     public class ProductType
     {
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int id { get; set; }
+        public int Id { get; set; }
         [MaxLength(25)]
         [Required]
         public string Title { get; set; }

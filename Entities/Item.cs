@@ -14,7 +14,7 @@ namespace Memberships.Entities
     public class Item
     {
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int id { get; set; }
+        public int Id { get; set; }
         [MaxLength(255)]
         [Required]
         public string Title { get; set; }
