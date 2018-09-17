@@ -117,4 +117,3 @@ C:\Users\sipl\source\repos\Memberships\Memberships\obj\Debug\Memberships.csproj.
 C:\Users\sipl\source\repos\Memberships\Memberships\obj\Debug\Memberships.csproj.CopyComplete
 C:\Users\sipl\source\repos\Memberships\Memberships\obj\Debug\Memberships.dll
 C:\Users\sipl\source\repos\Memberships\Memberships\obj\Debug\Memberships.pdb
-C:\Users\sipl\source\repos\Memberships\Memberships\obj\Debug\Memberships.csprojAssemblyReference.cache
