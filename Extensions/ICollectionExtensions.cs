@@ -6,6 +6,9 @@ using System.Web.Mvc;
 
 namespace Memberships.Extensions
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public static class ICollectionExtensions
     {
         public static IEnumerable<SelectListItem>

@@ -624,6 +624,7 @@ namespace Memberships.Controllers
         [HttpPost]
         [Authorize(Roles = "Admin")]
         [ValidateAntiForgeryToken]
+       
         public async Task<ActionResult> Delete(UserViewModel model)
         {
             try

@@ -82,5 +82,20 @@ namespace Memberships.Models
     {
         public string SelectedProvider { get; set; }
         public ICollection<System.Web.Mvc.SelectListItem> Providers { get; set; }
+
+        /// <summary>
+        /// Function to check the authentication of user
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <param name="c"></param>
+        /// <returns></returns>
+        public bool IsAuthenticate(int a, int b, int c)
+        {
+
+            return true;
+        }
+
+
     }
 }
