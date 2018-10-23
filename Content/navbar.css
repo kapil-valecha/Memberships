@@ -1,6 +1,7 @@
 ﻿body {
     font-family: 'Open Sans', sans-serif;
 }
+
 .navbar {
     border-bottom: 1px solid #C8C8C8;
     background-color: #FFF;
@@ -13,16 +14,17 @@
     .nav a:hover {
         color: #72C02C;
     }
-    .nav > li > a:hover {
-        background-color: #FFF;
-    }
+
+.nav > li > a:hover {
+    background-color: white;
+}
 
 .navbar-nav > li > a {
     margin-top: 25px;
     padding-top: 5px;
     max-height: 30px;
-    background-color: #FFF;
 }
+
 .body-content {
     margin-top: 40px;
 }

@@ -18,7 +18,7 @@
         })
         @if (Model.UserId == null || Model.UserId.Equals(string.Empty))
         {
-                @Html.Partial("_SmallButtonPartial",
+            @Html.Partial("_SmallButtonPartial",
                  new SmallButtonModel
                  {
                      Action = "Details",
@@ -34,7 +34,7 @@
         }
         @if (Model.UserId != null && !Model.UserId.Equals(string.Empty))
         {
-                @Html.Partial("_SmallButtonPartial",
+            @Html.Partial("_SmallButtonPartial",
                  new SmallButtonModel
                  {
                      Action = "Subscriptions",
@@ -48,6 +48,7 @@
                      UserId = Model.UserId
                  })
         }
+
         @Html.Partial("_SmallButtonPartial",
         new SmallButtonModel
         {

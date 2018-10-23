@@ -1,3 +1,4 @@
+C:\Users\sipl\source\repos\Memberships\Memberships\obj\Debug\Memberships.csproj.CoreCompileInputs.cache
 C:\Users\sipl\source\repos\Memberships\Memberships\bin\ApplicationInsights.config
 C:\Users\sipl\source\repos\Memberships\Memberships\bin\Memberships.dll.config
 C:\Users\sipl\source\repos\Memberships\Memberships\bin\Memberships.dll
@@ -113,7 +114,6 @@ C:\Users\sipl\source\repos\Memberships\Memberships\bin\Microsoft.AI.DependencyCo
 C:\Users\sipl\source\repos\Memberships\Memberships\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\sipl\source\repos\Memberships\Memberships\bin\Microsoft.AI.Web.xml
 C:\Users\sipl\source\repos\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\sipl\source\repos\Memberships\Memberships\obj\Debug\Memberships.csproj.CoreCompileInputs.cache
 C:\Users\sipl\source\repos\Memberships\Memberships\obj\Debug\Memberships.csproj.CopyComplete
 C:\Users\sipl\source\repos\Memberships\Memberships\obj\Debug\Memberships.dll
 C:\Users\sipl\source\repos\Memberships\Memberships\obj\Debug\Memberships.pdb
